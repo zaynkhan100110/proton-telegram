@@ -1,0 +1,6 @@
+credentials/
+.env
+/proton-telegram
+*.log
+.env.*
+!.env.example
