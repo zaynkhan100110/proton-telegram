@@ -11,10 +11,10 @@ A self-hosted Telegram email assistant. Connect supported email accounts to a Te
 > Proton Mail Bridge is available with a paid Proton Mail plan. See [Proton's Bridge overview](https://proton.me/support/imap-smtp-and-pop3-setup) and [Linux installation guide](https://proton.me/support/bridge-for-linux).
 
 ---
- 
+
 ## Features
 
-- Connect more than one email provider and switch accounts inside one Telegram application.
+- Connect more than one email provider and switch accounts in Telegram.
 - Browse inbox, starred, sent, drafts, all mail, spam, and trash folders (provider support and folder names vary).
 - Search the selected account's inbox with `/search words`.
 - Fetch and display complete email bodies, preferring plain text and converting basic HTML to readable text.
@@ -24,7 +24,7 @@ A self-hosted Telegram email assistant. Connect supported email accounts to a Te
 - Compose and send mail with a confirmation step.
 - Run providers independently: a missing or misconfigured provider does not prevent another configured provider from starting.
 
-## Telegram application commands (after serve the app)
+## Telegram commands
 
 | Command | Description |
 |---|---|
@@ -58,7 +58,7 @@ Mailbox commands ask how many messages to fetch (1–100). Message numbers for `
 - Go **1.26.6** or newer (matching the module's `go` directive).
 - A Telegram bot token from [@BotFather](https://t.me/BotFather).
 - Credentials for at least one email provider.
-- For Proton Mail: a paid Proton Mail plan, [Proton Mail Bridge](https://proton.me/mail/bridge), and its generated mailbox username/password (a proton paid account is required for bridge).
+- For Proton Mail: a paid Proton Mail plan, [Proton Mail Bridge](https://proton.me/mail/bridge), and its generated mailbox username/password.
 
 ## Quick start
 
@@ -71,7 +71,7 @@ cd proton-telegram
 
 Or download and extract the project ZIP. Replace the clone URL with the URL of your own GitHub repository after publishing this project.
 
-### 2. Create the credentials directory. Don't ever share your credentials with anyone after add. Credentials may have a timer to expire (so keep update in a certain time)
+### 2. Create the credentials directory
 
 ```bash
 mkdir -p credentials
@@ -317,4 +317,4 @@ proton-telegram/
 
 ## License
 
-Do not attempt to sell this !!!
+Don't try to sell !!! 

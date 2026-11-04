@@ -1,5 +1,5 @@
 package main
-// where the brain of this application lives
+
 import (
 	"context"
 	"log"

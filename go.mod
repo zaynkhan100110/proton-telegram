@@ -1,5 +1,5 @@
 module proton-telegram
-// root file for gather all packages needed (upgrade if you found any new version)
+
 go 1.26.6
 
 require (
