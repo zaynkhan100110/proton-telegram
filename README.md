@@ -11,7 +11,7 @@ A self-hosted Telegram email assistant. Connect supported email accounts to a Te
 > Proton Mail Bridge is available with a paid Proton Mail plan. See [Proton's Bridge overview](https://proton.me/support/imap-smtp-and-pop3-setup) and [Linux installation guide](https://proton.me/support/bridge-for-linux).
 
 ---
-
+ 
 ## Features
 
 - Connect more than one email provider and switch accounts in Telegram.
