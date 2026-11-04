@@ -24,7 +24,7 @@ A self-hosted Telegram email assistant. Connect supported email accounts to a Te
 - Compose and send mail with a confirmation step.
 - Run providers independently: a missing or misconfigured provider does not prevent another configured provider from starting.
 
-## Telegram commands
+## Telegram application commands (after serve the app)
 
 | Command | Description |
 |---|---|
