@@ -58,7 +58,7 @@ Mailbox commands ask how many messages to fetch (1–100). Message numbers for `
 - Go **1.26.6** or newer (matching the module's `go` directive).
 - A Telegram bot token from [@BotFather](https://t.me/BotFather).
 - Credentials for at least one email provider.
-- For Proton Mail: a paid Proton Mail plan, [Proton Mail Bridge](https://proton.me/mail/bridge), and its generated mailbox username/password.
+- For Proton Mail: a paid Proton Mail plan, [Proton Mail Bridge](https://proton.me/mail/bridge), and its generated mailbox username/password (a proton paid account is required for bridge).
 
 ## Quick start
 
