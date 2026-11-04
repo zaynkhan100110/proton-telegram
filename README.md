@@ -71,7 +71,7 @@ cd proton-telegram
 
 Or download and extract the project ZIP. Replace the clone URL with the URL of your own GitHub repository after publishing this project.
 
-### 2. Create the credentials directory
+### 2. Create the credentials directory. Don't ever share your credentials with anyone after add. Credentials may have a timer to expire (so keep update in a certain time)
 
 ```bash
 mkdir -p credentials
