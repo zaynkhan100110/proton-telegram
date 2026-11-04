@@ -14,7 +14,7 @@ A self-hosted Telegram email assistant. Connect supported email accounts to a Te
  
 ## Features
 
-- Connect more than one email provider and switch accounts in Telegram.
+- Connect more than one email provider and switch accounts inside one Telegram application.
 - Browse inbox, starred, sent, drafts, all mail, spam, and trash folders (provider support and folder names vary).
 - Search the selected account's inbox with `/search words`.
 - Fetch and display complete email bodies, preferring plain text and converting basic HTML to readable text.
